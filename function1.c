@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* print_unsigned - a function that Prints a unsigned numbe
+* print_unsigned - a function that Prints a unsigned number
 * @size: size of the specifier
 * @width:the width  Buffer array to handle print
 * @flags: calculate active flags

@@ -4,7 +4,7 @@
 #include <stdarg.h>
 #include <unistd.h>
 
-#define UNUSED(x) (void) (x)
+#define UNUSED(x) ((void) (x))
 #define BUFF_SIZE 1024
 /* FLAGS */
 #define F_MINUS 1
@@ -18,7 +18,7 @@
 #define S_SHORT 1
 
 /**
- * truct fmt - Struct op
+ * struct fmt - Struct op
  * @fmt: The format.
  * @fn: The function associated
  */
@@ -111,5 +111,5 @@ int is_digit(char);
 long int convert_size_number(long int num, int size);
 long int convert_size_unsgnd(unsigned long int num, int size);
 
-#endif 
+#endif
 

@@ -43,7 +43,7 @@ if (flags & F_PLUS)
 lateef = '+', length++;
 else if (flags & F_SPACE)
 {
-	lateef = ' '; length++;
+lateef = ' '; length++;
 }
 ind++;
 

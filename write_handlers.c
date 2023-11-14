@@ -1,7 +1,7 @@
 #include "main.h"
 /**
 * handle_write_char - a function that Prints a string
-* @buffer: buffer
+* @buffer: buffer.
 * @c: character declared
 * @width: width
 * @flags: active flags

@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* is_printable - printable
+* is_printable - printable.
 * @c: Character
 *
 * Return: Output

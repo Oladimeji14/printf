@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* get_size - print the size to cast the argument
+* get_size - print the size to cast the argument.
 * @format: Formatted string
 * @i: insert of arguments
 *

@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* get_precision -  function  that print the calculated precision
+* get_precision -  function  that print the calculated precision.
 * @format: Formatted string
 * @i: inserted the rgument.
 * @list: list of arguments.

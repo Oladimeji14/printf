@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdarg.h>
 /**
-* print_pointer - a function that Prints a pointer
+* print_pointer - a function that Prints a pointer.
 * @size: size of the specifie
 * @width:the width  Buffer array to handle print
 * @flags: calculate active flags

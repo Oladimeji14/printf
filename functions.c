@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* print_char - a function that Prints a character
+* print_char - a function that Prints a character.
 * @size: size of the specifier.
 * @width:the width  Buffer array to handle print
 * @flags: calculate active flags
